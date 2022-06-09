@@ -3,6 +3,7 @@
     "displayName": "left_oven47's Extension Megapack",
     "description": "The complete up to date list of all the extensions used by me.",
     "version": "0.0.1",
+    "repository": "https://github.com/cameronPeckDev/vscode-extensions",
     "engines": {
         "vscode": "^1.67.0"
     },
