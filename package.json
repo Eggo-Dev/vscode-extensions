@@ -2,6 +2,7 @@
     "name": "leftoven47sexetensionmegapack",
     "displayName": "left_oven47's Extension Megapack",
     "description": "The complete up to date list of all the extensions used by me.",
+    "publisher": "leftoven47",
     "version": "0.0.1",
     "repository": "https://github.com/cameronPeckDev/vscode-extensions",
     "engines": {
