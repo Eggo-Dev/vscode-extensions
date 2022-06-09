@@ -1,4 +1,4 @@
 # THE ULTIMATE PLUGIN SET
 
 ## Woot
-	Plugins for almost any language!
+Plugins for almost any language!
